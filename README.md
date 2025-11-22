@@ -64,6 +64,19 @@ Use responsibly and at your own risk.
 We are not responsible for any bans or issues that may arise from using modified clients.
 
 
+# Legal Disclaimer & Intentions
+
+We understand the importance of respecting intellectual property and the rights of the original developers of Sail VR. This project is not intended to infringe on copyrights, monetize the game, or mislead users. Our goals are strictly:
+
+Educational and experimental purposes – allowing coders, VR enthusiasts, and modders to explore and learn.
+
+Community enjoyment – providing tools for fun, testing, and personal exploration outside of the official Sail VR client.
+
+Supporting the official game – we encourage users to continue playing and respecting Sail VR’s official servers and community guidelines.
+
+By participating in or using this project, users agree to use it responsibly and acknowledge that any modifications or cheats are for personal, educational, or research purposes. We do not condone harassment, cheating in official competitive environments, or any activity that violates the terms of service of Sail VR.
+
+
 # Credits
 Thank you to Sail vr for the inspo and some code aspects
 devs:

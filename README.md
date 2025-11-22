@@ -68,7 +68,7 @@ You Must Own Sail On Steam To Play This
 
 if you do not own the Sail vr steam files you will be banned until you do 
 
-this is to insure the devs are suported but if you own the apk of beyond it is fine 
+this is to insure the devs are suported but if you only wish to play the standalone apk of beyond it is fine 
 
 We respect the intellectual property of Sail VR. Beyond is not intended to infringe copyrights, monetize the game, or mislead users. Our goals are strictly:
 

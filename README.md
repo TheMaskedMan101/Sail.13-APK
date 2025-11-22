@@ -66,7 +66,7 @@ We are not responsible for any bans or issues that may arise from using modified
 
 # Credits
 Thank you to Sail vr for the inspo and some code aspects
-==devs==
+devs:
 God45
 Masked
 Duncan

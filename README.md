@@ -1,9 +1,73 @@
 # Sail.13-APK
 
-This project aims to bring back one of the best versions of Sail VR by creating a modified APK that supports cheats, restored features, and full cross‑play. Our goal is to make this classic version playable again while still being able to connect to Sail’s servers.
+Sail.13-APK is a community-driven project aiming to bring back one of the best versions of Sail VR. We are creating a modified APK and PC client that adds new cheat options, restores classic features, and supports full cross-play, allowing players to connect and play with Sail’s official servers while enjoying enhanced gameplay.
 
-The APK and PC file is being developed collaboratively by me and several contributors from the ND community.
-Expect ongoing improvements, new cheat options, stability fixes, and expanded compatibility as the project evolves.
+# This project
 
-# Ban sytem 
-we are hoping to include our own ban sytem i will change this repo as we develop the apk and PC files
+This project is developed collaboratively by members of the ND community, with ongoing improvements, stability fixes, and new features added over time.
+
+# Features (Planned / In Development)
+
+Cross-play support – Play seamlessly with others on Sail’s servers.
+
+Cheat/mod enhancements – A variety of options to modify gameplay for fun or testing purposes.
+
+Ban system – A custom anti-cheat and ban management system to keep the environment fair for everyone.
+
+Classic Sail VR restoration – Bring back beloved features from older versions including old maps.
+
+PC + VR compatibility – Works both on Android (APK) and PC builds.
+
+Community-driven updates – We will have continuous fixes, optimizations, and feature additions based on feedback sail vr is a small game by a small group of devs so they cant fix as much so we strive to have lots of fixes to our version.
+
+Optional experimental features (future updates) –
+
+Advanced movement options
+
+Expanded VR settings
+
+Quick-load maps or servers
+
+More Inquisitor roles and opportunities
+
+# Ban System
+
+We are developing our own ban system to manage abuse and ensure fair play. This repo will be updated continuously as the APK and PC clients evolve.
+
+# License & Contributions
+
+This project is semi-open-source:
+
+You may fix bugs or improve features, but do not copy or claim the code as your own.
+
+Any modifications or fixes should be shared with the community, preferably through our Discord server.
+
+Respect the original authorship and contributions of the ND community.
+
+# Purpose
+
+The goal of Sail.13-APK is to provide coders and VR enthusiasts with a way to explore and enjoy Sail VR outside the official game, while fully supporting the official Sail VR community.
+
+We are not affiliated with the official Sail VR developers and encourage players to respect the official game’s community rules.
+
+# Discord Community
+
+Join our Discord to collaborate, get updates, and share feedback:
+https://discord.gg/syt8RNxH
+
+# Disclaimer
+
+This project is intended for educational and experimental purposes.
+
+Use responsibly and at your own risk.
+
+We are not responsible for any bans or issues that may arise from using modified clients.
+
+
+# Credits
+Thank you to Sail vr for the inspo and some code aspects
+==devs==
+God45
+Masked
+Duncan
+And more of the ND comunity contribute 

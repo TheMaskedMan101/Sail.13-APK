@@ -64,6 +64,8 @@ Use Beyond responsibly and at your own risk. We are not responsible for any bans
 
 Legal Disclaimer & Intentions
 
+You Must Own Sail On Steam To Play This
+
 We respect the intellectual property of Sail VR. Beyond is not intended to infringe copyrights, monetize the game, or mislead users. Our goals are strictly:
 
 Educational and experimental purposes – For coders, VR enthusiasts, and modders to explore and learn.

@@ -1,26 +1,26 @@
-# Sail.13-APK
+# Beyond
 
-Sail.13-APK is a community-driven project aiming to bring back one of the best versions of Sail VR. We are creating a modified APK and PC client that adds new cheat options, restores classic features, and supports full cross-play, allowing players to connect and play with Sail’s official servers while enjoying enhanced gameplay.
+Beyond is a community-driven project aiming to bring back one of the best versions of Sail VR. We are creating a modified APK and PC client that adds new cheat options, restores classic features, and supports full cross-play, allowing players to connect and play with Sail’s official servers while enjoying enhanced gameplay.
 
-# This project
+# This Project
 
-This project is developed collaboratively by members of the ND community, with ongoing improvements, stability fixes, and new features added over time.
+Beyond is developed collaboratively by members of the ND community, with ongoing improvements, stability fixes, and new features added continuously. Our goal is to maintain a polished, playable experience while expanding functionality beyond the official Sail VR client.
 
-# Features (Planned / In Development)
+Features (Planned / In Development)
 
-Cross-play support – Play seamlessly with others on Sail’s servers.
+Cross-play support – Play seamlessly with others on our own servers.
 
-Cheat/mod enhancements – A variety of options to modify gameplay for fun or testing purposes.
+Cheat/Mod enhancements – A variety of gameplay modifications for fun or testing purposes.
 
-Ban system – A custom anti-cheat and ban management system to keep the environment fair for everyone.
+Ban system – Custom anti-cheat and ban management to ensure fair play.
 
-Classic Sail VR restoration – Bring back beloved features from older versions including old maps.
+Classic Sail VR restoration – Bring back beloved features from older versions, including maps and game mechanics.
 
-PC + VR compatibility – Works both on Android (APK) and PC builds.
+PC + VR compatibility – Works on both Android (APK) and PC builds.
 
-Community-driven updates – We will have continuous fixes, optimizations, and feature additions based on feedback sail vr is a small game by a small group of devs so they cant fix as much so we strive to have lots of fixes to our version.
+Community-driven updates – Continuous fixes, optimizations, and feature additions based on community feedback. Sail VR is a small game by a small group of developers, so we aim to provide more consistent updates.
 
-Optional experimental features (future updates) –
+Optional Experimental Features (Future Updates):
 
 Advanced movement options
 
@@ -28,61 +28,80 @@ Expanded VR settings
 
 Quick-load maps or servers
 
-More Inquisitor roles and opportunities
+Additional Inquisitor roles and gameplay opportunities
 
 # Ban System
 
-We are developing our own ban system to manage abuse and ensure fair play. This repo will be updated continuously as the APK and PC clients evolve.
+We are developing our own ban system to manage abuse and ensure fair play. This repository will be updated continuously as the APK and PC clients evolve.
 
 # License & Contributions
 
-This project is semi-open-source:
+Beyond is semi-open-source:
 
 You may fix bugs or improve features, but do not copy or claim the code as your own.
 
-Any modifications or fixes should be shared with the community, preferably through our Discord server.
+Modifications or fixes should be shared with the community, preferably through our Discord server.
 
-Respect the original authorship and contributions of the ND community.
+Always respect the original authorship and contributions of the ND community.
 
 # Purpose
 
-The goal of Sail.13-APK is to provide coders and VR enthusiasts with a way to explore and enjoy Sail VR outside the official game, while fully supporting the official Sail VR community.
+The goal of Beyond is to provide coders and VR enthusiasts with a way to explore and enjoy Sail VR outside the official client, while still supporting the official Sail VR community.
 
-We are not affiliated with the official Sail VR developers and encourage players to respect the official game’s community rules.
+We are not affiliated with the official Sail VR developers and encourage users to respect the official game’s rules and servers.
 
 # Discord Community
 
 Join our Discord to collaborate, get updates, and share feedback:
-https://discord.gg/syt8RNxH
+https://discord.gg/rPrMcSje 
 
 # Disclaimer
 
 This project is intended for educational and experimental purposes.
 
-Use responsibly and at your own risk.
+Use Beyond responsibly and at your own risk. We are not responsible for any bans, account issues, or other consequences from using modified clients.
 
-We are not responsible for any bans or issues that may arise from using modified clients.
+Legal Disclaimer & Intentions
 
+We respect the intellectual property of Sail VR. Beyond is not intended to infringe copyrights, monetize the game, or mislead users. Our goals are strictly:
 
-# Legal Disclaimer & Intentions
+Educational and experimental purposes – For coders, VR enthusiasts, and modders to explore and learn.
 
-We understand the importance of respecting intellectual property and the rights of the original developers of Sail VR. This project is not intended to infringe on copyrights, monetize the game, or mislead users. Our goals are strictly:
+Community enjoyment – Providing tools for personal testing and fun outside the official Sail VR client.
 
-Educational and experimental purposes – allowing coders, VR enthusiasts, and modders to explore and learn.
+Supporting the official game – We encourage players to continue playing and respecting Sail VR’s official servers and guidelines.
 
-Community enjoyment – providing tools for fun, testing, and personal exploration outside of the official Sail VR client.
+By using Beyond, you agree to act responsibly. Modifications are intended only for personal, educational, or research purposes. We do not condone harassment, cheating in official competitive environments, or violating Sail VR’s terms of service.
 
-Supporting the official game – we encourage users to continue playing and respecting Sail VR’s official servers and community guidelines.
+Note: Any in-game currency purchased in the official Sail VR game will appear at a reduced amount in Beyond. This ensures balance and differentiates our client from the official game.
 
-By participating in or using this project, users agree to use it responsibly and acknowledge that any modifications or cheats are for personal, educational, or research purposes. We do not condone harassment, cheating in official competitive environments, or any activity that violates the terms of service of Sail VR.
+# Donations
 
-Note: Any in‑game currency purchased in the official Sail VR game will appear at a reduced amount when reflected in our modified version. This ensures balance and distinguishes our client from the official game.
+If you’d like to support the development of Beyond, we accept donations via CashApp:
+(placeholder)
 
+Transparency: 25% of proceeds will be donated directly to Sail VR, supporting the official developers.
+
+Purpose: Contributions fund ongoing development, testing, and maintenance of Beyond.
+
+We greatly appreciate any support from the community!
 
 # Credits
-Thank you to Sail vr for the inspo and some code aspects
-devs:
-God45
-Masked
-Duncan
-And more of the ND comunity contribute 
+
+Developers & Contributors
+
+This project is made possible thanks to the collaboration of the ND community and Sail VR:
+
+Lead Developers: God45, Masked, Duncan, Memento, and more – Overall project coordination, APK & PC client development
+
+VR Systems & Crossplay: HackerMan – Ensuring cross-platform compatibility and server connectivity
+
+Mod/Cheat & Feature Integration: Masked, Duncan, God45, Memento, Parabelum – Implementing gameplay enhancements and restoring classic Sail VR features
+
+GUI & UX: Masked, Duncan, God45 – Designing the interface, webcam preview, and user interactions
+
+Testing & QA: Duncan – Quality assurance, bug reporting, and stability testing
+
+Community Support & Documentation: Masked – Writing guides, README updates, and managing Discord feedback
+
+Special thanks to all ND community members who contribute ideas, bug reports, and support — your participation keeps Beyond alive and evolving!

@@ -76,6 +76,8 @@ Supporting the official game – we encourage users to continue playing and resp
 
 By participating in or using this project, users agree to use it responsibly and acknowledge that any modifications or cheats are for personal, educational, or research purposes. We do not condone harassment, cheating in official competitive environments, or any activity that violates the terms of service of Sail VR.
 
+Note: Any in‑game currency purchased in the official Sail VR game will appear at a reduced amount when reflected in our modified version. This ensures balance and distinguishes our client from the official game.
+
 
 # Credits
 Thank you to Sail vr for the inspo and some code aspects

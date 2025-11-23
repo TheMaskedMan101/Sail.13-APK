@@ -1,6 +1,6 @@
 # Beyond Sail
 
-Beyond Sail is a community-driven project aiming to bring back one of the best versions of Sail VR. We are creating a modified APK and PC client that adds new options such as singleplayer mods. Beyond restores classic features, and supports full cross-play, allowing players to connect and play with Sail’s official servers while enjoying enhanced gameplay.
+Beyond Sail is a community-driven project aiming to bring back one of the best versions of Sail VR. We are creating a modified APK and PC client that adds new options such as singleplayer mods. Beyond restores classic features, and supports full cross-play, allowing players to connect and play with our own official servers while enjoying enhanced gameplay.
 
 
 # This Project

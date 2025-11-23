@@ -100,7 +100,7 @@ Currency from the official game will appear **reduced** in Beyond to maintain ba
 
 If you'd like to support Beyond's development:
 
-💵 **CashApp:** *(placeholder)*
+💵 **CashApp:** *$THENOTDOTS*
 
 ### 📊 Transparency
 - **25%** of donations go directly to **official Sail VR developers**  

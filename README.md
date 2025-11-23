@@ -121,10 +121,11 @@ God45, Masked, Duncan, Memento, and others
 ### 🌐 **VR Systems & Cross-Play**
 HackerMan – Ensuring stable cross-platform support  
 
-### 🧩 **Mod/Cheat Integration**
+### 🧩 **Mod Integration**
 Masked, Duncan, God45, Memento, Parabelum  
 - Gameplay enhancements  
-- Classic feature restoration  
+- Classic feature restoration
+  (Only in sp)
 
 ### 🎨 **GUI & UX**
 Masked, Duncan, God45  

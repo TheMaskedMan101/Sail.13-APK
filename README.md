@@ -15,10 +15,11 @@ Our mission is to maintain a polished, stable, and enjoyable experience while ex
 ## ✨ **Features (Planned / In Development)**
 
 - 🔗 **Cross-play support** — Play seamlessly across platforms on our servers  
-- 🧪 **Cheat/Mod enhancements** — Fun and experimental gameplay modifiers  
+- 🧪 **Mod enhancements** — Fun and experimental gameplay modifiers this will only be in our single player lobbys  
 - 🔨 **Ban system** — Custom anti-cheat + ban tools for fair play  
 - 🗺️ **Classic Sail VR restoration** — Old maps, mechanics, and features revived  
-- 💻 **PC + VR compatibility** — For Android (APK) and Windows  
+-  🧪 **Single player** — 
+-  💻 **PC + VR compatibility** — For Android (APK) and Windows  
 - 🌱 **Community-driven updates** — Frequent fixes, optimizations, and new ideas
 
 ### 🧩 **Future Experimental Features**
